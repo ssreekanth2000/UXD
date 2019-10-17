@@ -34,7 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![alt text](https://github.com/ssreekanth2000/UXD/blob/master/IMG_2166.JPG "Needs analysis 1")
 
-![alt text](https://github.com/ssreekanth2000/UXD/blob/master/IMG_2167.JPG "Needs analysis 1")
 
 ### Support or Contact
 
