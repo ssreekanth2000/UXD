@@ -31,20 +31,26 @@ Because we took a bit more time to better understand our users and their needs, 
 #### Design Ideas
 
 
-Message Consolidation
-
+Cross Platform Message Consolidation
 
 This design implementation focuses on the fact that many business owners receive multiple messages across various platforms, and that the most common way to respond to these messages is to check each platform individually. 
-This implementation for a message consolidation platform is designed with the needs and wants of Jessica and Olivia more so than our other two personas.
+
+
+This implementation for a message consolidation platform is designed with the needs and wants of Jessica and Olivia more so than our other two personas. This was designed to be a phone app because these two personas have easy access to their phone while at work and are constantly alert for incoming notifications.
+
 After sketching out this idea, we created a small flow diagram for how this platform would work for these target two personas, and a paper prototype for initial tests.
 
 
 ![alt text](https://github.com/ssreekanth2000/UXD/blob/master/design.PNG "Personas")
 
 
-The flowcharts currently are a great simplification for how these desgins are supposed to function
+
+
+The flowcharts currently are a great simplification for how these personas would interact with this platform, but served as an initial basis to start to think about how to design the app.
+
 
 From performing limited user testing with Oliners, the area that seemed to need the most further attention and development was the template implementation. 
+ 
 
 
 ### Needs analysis
