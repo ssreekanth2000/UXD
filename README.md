@@ -4,10 +4,18 @@
 To pick off from where we left off in our Needs Analysis Phase, we continued to work to work on well-rounded personas that would allow us to better understand our users. We created the following personas to represent the space of the small business owners:
 
 
-* Got it Together Jessica: DESCRIBE
-* Online Olivia: DESCRIBE
-* Busy Brian: DESCRIBE
-* Not So Savvy Nancy: DESCRIBE
+To pick off from where we left off in our Needs Analysis Phase, we continued to work to work on well-rounded personas that would allow us to better understand our users. We created the following personas to represent the space of the small business owners:
+
+
+* Got it Together Jessica: Owner/manager of a custom gift shop, with ~7 employes to manage. She has been in the industry for many years and has a good, working system going that she will only change if it provides enough benefits.
+
+
+* Online Olivia: Owner of a craft business, she does mostly everything herself. She quickly adapts to changing retail conditions and uses many different platforms to reach customers.
+
+* Busy Brian: Owner/manager of a restaurant. He has 3 shift managers and 6 other employees to manage. Doesn’t have much time to devote to answering questions/managing social media platforms.
+
+* Not So Savvy Nancy: Owner of a local flower shop. Most of her business so far has relied on in-person communication. Thinks social media is scary/hard to approach, but sees its potential and would like to use it. 
+
 
 ![alt text](https://github.com/ssreekanth2000/UXD/blob/master/Personas.PNG "Personas")
 
