@@ -152,6 +152,6 @@ Some key insights from this design is that while the functionalities we want are
 |  Raquel      | Search Feature design and needs analysis categorization  |
 |  Sabrina |Cross-platform communication consolidation design, consolidation for report|
 | Sreekanth |Website management and report formatting |
-| Will |        |
+| Will | Outward Facing Communication Application |
 
 
