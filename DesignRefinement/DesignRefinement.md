@@ -61,4 +61,4 @@ The questions we still have regarding the prototype are the following:
 * Do customers trust this system to correctly display allergen information?
 * What other features might be needed?
 
-[Return Home](../Home.md)
+[Return Home](../README.md)
