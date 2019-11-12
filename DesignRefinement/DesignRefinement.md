@@ -61,4 +61,22 @@ The questions we still have regarding the prototype are the following:
 * Do customers trust this system to correctly display allergen information?
 * What other features might be needed?
 
+### Heuristic Evaluation
+
+We learned from our heuristic evaluation that we need to include more affordances that signal  navigation throughout our app. We need to include more features like back arrows, home buttons and a clear all feature for the different filters. This will help the user move through the app with speed.
+
+We also need to make our interface use similar features of menus like icons that represent if menu items are gluten free or vegan, instead of only having the filters. This provides a quicker way to know if something fits a dietary restriction without needing to click anything. Additionally, having a visual for when menu items have sold out would help with quicker information retrieval. In the end, we need to focus on not just quickness of navigation, but more presentation of information, to minimize any need to navigate.
+
+Lastly, we also need to improve the editing capabilities of the platform. This includes creating a format to add ingredients as well as a more aesthetic way to remove ingredients. We should also include a confirmation checkbox after saving a menu item edit, to confirm if they want to make the changes that they have made. 
+
+### Effort Chart for Design Development Phase Submission
+
+| Name |  Role          |
+|--------|---------------|
+|  Raquel  | Typing up Design Refinement <br> Refined Computerized Design <br> Contacting Users <br> |
+|  Sabrina | Typing up Design Refinement <br> Contacting Users <br> Refined Computerized Design |
+| Sreekanth | Typing up Design Refinement <br> Initial Computerized Design <br> Contacting Users <br> Scenarios <br> |
+| Will | Typing up Design Refinement <br> Setting Up Website <br> Contacting Users |
+
+
 [Return Home](../README.md)
