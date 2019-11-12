@@ -10,7 +10,7 @@ Our design right now is an app designed for servers and hostesses at restaurants
 
 Clicking on an item like the house salad leads to a page where the ingredients of that item along with the dietary restrictions it doesn’t comply with are marked. This allows servers and hostesses to easily answer questions on what makes up a certain dish. 
 
-![alt text](./CurrDesign1.png )
+<img src="./CurrDesign1.png" width="60%">
 
 ![alt text](./CurrDesign2.png )
 
