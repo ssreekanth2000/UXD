@@ -6,7 +6,9 @@ Submitted: 11/12/19
 
 Our design right now is an app designed for servers and hostesses at restaurants to help them navigate dietary restrictions better. The app is designed to be used on a keyboard-less tablet and help answer customer questions about various items and their ingredients. The interface is designed to be simple, with toggle switches for common dietary restrictions which can be chosen by the restaurant and the ability to inspect any item’s ingredients by clicking on it. 
 
-![A picture of the Design.  There is a Search Bar, List of available Foods, and two switches to limit results to Vegan and Dairy Free dietary Restrictions.  The whole picture is framed by an Ipad, implying it is a tablet application.](./CurrDesign0.png)
+<img src="./CurrDesign0.png" width="60%">
+
+<!--![A picture of the Design.  There is a Search Bar, List of available Foods, and two switches to limit results to Vegan and Dairy Free dietary Restrictions.  The whole picture is framed by an Ipad, implying it is a tablet application.](./CurrDesign0.png)-->
 
 Clicking on an item like the house salad leads to a page where the ingredients of that item along with the dietary restrictions it doesn’t comply with are marked. This allows servers and hostesses to easily answer questions on what makes up a certain dish. 
 
