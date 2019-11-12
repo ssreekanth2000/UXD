@@ -6,17 +6,19 @@ Submitted: 11/12/19
 
 Our design right now is an app designed for servers and hostesses at restaurants to help them navigate dietary restrictions better. The app is designed to be used on a keyboard-less tablet and help answer customer questions about various items and their ingredients. The interface is designed to be simple, with toggle switches for common dietary restrictions which can be chosen by the restaurant and the ability to inspect any item’s ingredients by clicking on it. 
 
-![A picture of the Design.  There is a Search Bar, List of available Foods, and two switches to limit results to Vegan and Dairy Free dietary Restrictions.  The whole picture is framed by an Ipad, implying it is a tablet application.](./CurrDesign0.png)
+<img src="./CurrDesign0.png" width="60%">
+
+<!--![A picture of the Design.  There is a Search Bar, List of available Foods, and two switches to limit results to Vegan and Dairy Free dietary Restrictions.  The whole picture is framed by an Ipad, implying it is a tablet application.](./CurrDesign0.png)-->
 
 Clicking on an item like the house salad leads to a page where the ingredients of that item along with the dietary restrictions it doesn’t comply with are marked. This allows servers and hostesses to easily answer questions on what makes up a certain dish. 
 
-![alt text](./CurrDesign1.png )
+<img src="./CurrDesign1.png" width="60%">
 
-![alt text](./CurrDesign2.png )
+<img src="./CurrDesign2.png" width="60%">
 
 The edit button on this page allows restaurants to be modify the page if and when they choose to change their menu/ modify and item. It allows them to delete/add any ingredients and/or notes. They can also mark it as out of stock so that they can be aware of its status when talking to guests. 
 
-![alt text](./CurrDesign3.png )
+<img src="./CurrDesign3.png" width="60%">
 
 Our design also allows for the indication of customizability of items indicating how certain ingredients can swapped out in some items to make them compliant to certain dietary restrictions.
 
@@ -25,11 +27,11 @@ Our design also allows for the indication of customizability of items indicating
 
 Our current designed evolved from the searching platform we presented in the Design Refinement phase.
 
-![alt text](./PaperProto0.png )
+<img src="./PaperProto0.png" width="60%">
 
 We took this design and thought critically about what persona we wanted to design for. We chose to evolve our design to better suit Busy Brian because our initial platform design was too broad as we wanted it to serve various functions for different personas. Below is the second iteration of the paper prototype, narrowed to reflect that the product sold is food and the information that is shared is ingredient/allergen information.
 
-![alt text](./PaperProto1.jpg )
+<img src="./PaperProto1.jpg" width="60%">
 
 In the paper prototype, we were unsure of what platform our design would be on. We looked further into the types of devices that users similar to Busy Brian had at their disposal. We learned that many restaurants had tablets, such as the Toast POS system that could be a useful device for our platform as well. This table would be great for displaying lots of information, but one trade off that we discovered is that its difficult to use the on screen keyboard. From this insight, we pivoted away from just a search bar for navigation and instead provided an alphabetical list or items, as well as a search bar for navigation. 
 
