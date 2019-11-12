@@ -29,7 +29,7 @@ Our current designed evolved from the searching platform we presented in the Des
 
 We took this design and thought critically about what persona we wanted to design for. We chose to evolve our design to better suit Busy Brian because our initial platform design was too broad as we wanted it to serve various functions for different personas. Below is the second iteration of the paper prototype, narrowed to reflect that the product sold is food and the information that is shared is ingredient/allergen information.
 
-![alt text](./PaperProto1.png )
+![alt text](./PaperProto1.jpg )
 
 In the paper prototype, we were unsure of what platform our design would be on. We looked further into the types of devices that users similar to Busy Brian had at their disposal. We learned that many restaurants had tablets, such as the Toast POS system that could be a useful device for our platform as well. This table would be great for displaying lots of information, but one trade off that we discovered is that its difficult to use the on screen keyboard. From this insight, we pivoted away from just a search bar for navigation and instead provided an alphabetical list or items, as well as a search bar for navigation. 
 

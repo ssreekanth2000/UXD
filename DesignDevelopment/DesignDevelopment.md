@@ -18,7 +18,7 @@ To pick off from where we left off in our Needs Analysis Phase, we continued to 
 * Not So Savvy Nancy: Owner of a local flower shop. Most of her business so far has relied on in-person communication. Thinks social media is scary/hard to approach, but sees its potential and would like to use it. 
 
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/Personas.PNG )
+![alt text](./Personas.PNG )
 
 
 
@@ -29,7 +29,7 @@ To pick off from where we left off in our Needs Analysis Phase, we continued to 
 
 After categorizing the needs and goals of our users into these personas, we then proceeded to use this information to understand some of the design requirements that each persona would impose on our design. We then categorized those design requirements, looking for similarities in requirements that would better inform the implementation we should continue with.
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/posts.PNG )
+![alt text](./posts.PNG )
 
 
 With these in mind, we decided to flesh out three approaches that met different intersections of needs for our personas. The first was the most similar to our original idea, a platform that consolidates most all of the user’s communications onto one platform. The second approach was that of a product management system that allows the business owner to easily access their product/service information to share with customers. The third approach is a social media posting platform that will help maintain pages across multiple platforms, as well as guide with posting.
@@ -50,7 +50,7 @@ This implementation for a message consolidation platform is designed with the ne
 After sketching out this idea, we created a small flow diagram for how this platform would work for these target two personas, and a paper prototype for initial tests.
 
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/design.PNG )
+![alt text](./design.PNG )
 
 
 
@@ -67,9 +67,9 @@ The search feature allows customers to search a database for products, customers
 
 To use the search feature, the user types into the search bar and suggested search items are presented below.
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/search.PNG )
+![alt text](./search.PNG )
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/search2.PNG )
+![alt text](./search2.PNG )
 
 
 
@@ -77,19 +77,19 @@ To use the search feature, the user types into the search bar and suggested sear
 They also appear below the categories as cards with a smaller amount of information that can fit onto this view.
 
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/search3.PNG )
+![alt text](./search3.PNG )
 
 The user can also filter the cards by the different category types of information.
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/search4.PNG )
+![alt text](./search4.PNG )
 
 
 If the user clicks on one of the cards then a pop-up box appears with all of the information about said card.
 
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/search5.PNG)
+![alt text](./search5.PNG)
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/search6.PNG)
+![alt text](./search6.PNG)
 
 
 
@@ -118,16 +118,16 @@ The design is a computer application that helps you draft a generalized post tha
 
 Below is what the posting screen looks like without any attachments.  The user can click final check to go on to reviewing the posts and finalizing the post.
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/out1.PNG )
+![alt text](./out1.PNG )
 
 The artifact below is what appears once the attachment button is pressed, this gives options to further customize and personalize the posts.
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/out2.PNG )
+![alt text](./out2.PNG )
 
 Below is what the screen looks like after adding some attachments (in particular Image and Location).
 
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/out3.PNG)
+![alt text](./out3.PNG)
 
 
 This design meets the user’s needs to some extent, which is to say it could be better and needs improvement.  The user needs something easy and fast to use that can encourage and help them to post in a consistent and organized way.  Additionally, the user needs to be able to post fast during work hours, and slowly / with more consideration when they are more free.
@@ -137,7 +137,7 @@ In the end this design got at the core need of being able to post in a consisten
 
 In an earlier iteration of this design the user was presented with every feature that the posting screen had to offer.  This wasn’t approaching the need of simplicity and potentially speed of the user because they are presented with a lot of optional information that clutters the space and simply detracts from the experience if they don’t plan on using them. 
 
-![alt text](https://github.com/ssreekanth2000/UXD/raw/master/out4.PNG )
+![alt text](./out4.PNG )
 
 
 Instead I chose to replace that with a small “attachments” button.  This allows them to still interact and explore that feature given time, but altogether ignore it if they are in a hurry.
