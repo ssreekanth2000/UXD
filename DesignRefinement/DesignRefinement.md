@@ -12,7 +12,7 @@ Clicking on an item like the house salad leads to a page where the ingredients o
 
 <img src="./CurrDesign1.png" width="60%">
 
-![alt text](./CurrDesign2.png )
+<img src="./CurrDesign2.png" width="60%">
 
 The edit button on this page allows restaurants to be modify the page if and when they choose to change their menu/ modify and item. It allows them to delete/add any ingredients and/or notes. They can also mark it as out of stock so that they can be aware of its status when talking to guests. 
 
