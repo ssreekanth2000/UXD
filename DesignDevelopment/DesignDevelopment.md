@@ -1,5 +1,6 @@
 
-## UXD Tappy Toes
+## UXD Tappy Toes - Design Development
+Submitted: 10/17/19
 
 To pick off from where we left off in our Needs Analysis Phase, we continued to work to work on well-rounded personas that would allow us to better understand our users. We created the following personas to represent the space of the small business owners:
 
@@ -155,3 +156,4 @@ Some key insights from this design is that while the functionalities we want are
 | Will | Outward Facing Communication Application |
 
 
+[Return Home](../Home.md)
