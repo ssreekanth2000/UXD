@@ -55,11 +55,10 @@ One of the major insights we got from the restaurant owners and people we talked
 
 The questions we still have regarding the prototype are the following:
 
-If there is a longer list of menu items, does the alphabetical list of menu items make the most sense for navigation?
-Could this system be maintained by a restaurant staff or is the activation energy to add new items too much work?
-Are these the most frequently asked about allergens?
-Do customers trust this system to correctly display allergen information?
-What other features might be needed?
-
+* If there is a longer list of menu items, does the alphabetical list of menu items make the most sense for navigation?
+* Could this system be maintained by a restaurant staff or is the activation energy to add new items too much work?
+* Are these the most frequently asked about allergens?
+* Do customers trust this system to correctly display allergen information?
+* What other features might be needed?
 
 [Return Home](../Home.md)
