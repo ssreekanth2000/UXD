@@ -6,3 +6,5 @@ Welcome to the Tappy Toes Website!  Here you can find information about our proj
 [Design Development](./DesignDevelopment/DesignDevelopment.md)
 
 [Design Refinement](./DesignRefinement/DesignRefinement.md)
+
+[Usabiltiy Study](https://github.com/ssreekanth2000/UXD/tree/master/Usability)
