@@ -63,7 +63,53 @@ The questions we still have regarding the prototype are the following:
 * Do customers trust this system to correctly display allergen information?
 * What other features might be needed?
 
-### Heuristic Evaluation
+### Heuristic Evaluation from Odditos Team
+
+Overall Impression:
+The application has the strengths of simplicity and organization. The layout of the page is very nice and seems as though it is optimized for handheld use. I also like the choices of light color tones, it makes for an appealing interface while also amplifying the tasks within the application. Going forward we suggest interviewing waiters to see what their opinion is on the platform and its services. The quickness of everything they have to doat the table is crucial. The less they have to move around to find the information they need the better.
+
+Heuristic Evaluation:
+1. [Visibility of system status] (Severity 3) - 2 of us
+After changing the ingredients of a dish, the ingredients list won’t be updated if we leave the page and come back again.
+2. [Visibility of System Status] (Severity 4) - 1 of us
+The starting page confused me of its location within the app. There is no home page or starting scene which can confuse the user on their location within the platform. There also are no back buttons or any navigation keys
+3. [Visibility of System Status] (Severity 4) - 1 of us
+There is no home bar or directory tools to know that the search screen is the home screen or where you actually are throughout the application. A home bar or some type of navigation guidance or reference for the user would help a lot. Especially when more features are added to the application.
+4. [Visibility of system status] (Severity 2) - 1 of us
+When ingredients are removed from a dish, which ingredients were removed should be displayed. This could be done by having them greyed out or some other visual indicator.
+5. [Match Between System and the Real World] (Severity 2) - 1 of us
+I am confused by the overarching purpose of the “Vegan” and “Dairy Free” filtering-switch — would it make more sense to just simply mark such dishes on the menu for customers, so that customer with “Vegan” and “Dairy free” restrictions don’t need to ask the waiter but can just get this information by looking at the menu.
+6. [User Control and Freedom] (Severity 4) - 2 of us
+The note section is under-developed and confusing for first time user: is this for waiters to put in a note-for-self or to be sent to the kitchen for specific instructions? Where is the submit button? and how would the waiter know whether particular requirement from the customer is feasible on the kitchen’s end (without running back and forth between the kitchen and table).
+7. [User Control & Freedom] (Severity 3) - 3 of us
+Right now with just the two options of “Vegan” or “Gluten Free” the system is not overwhelmed and doesn’t have a need for a “clear” or “reset” function. Though, as soon as there are more options the user will need a quick reset feature to provide them with the freedom and an “emergency exit” to get back to the starting position.
+8. [User control and freedom] (Severity 4) - 1 of us
+There’s no way to order anything from the interface. For an app targeted at restaurant servers, the lack of an ordering function feels wrong. The team should consider adding a shopping cart feature and an order button to complete the user flow of the application.
+9. [Consistency and standards] (Severity 3) - 2 of us
+When Vegan and Dairy Free are both selected on the main page, the notice for “*can be made Dairy Free upon Request” disappeared. This should be added for consistency with other pages. And the resulting menu items are all vegan items but not the intersection of vegan and dairy free items.
+10.[Consistency and Standards] (Severity 3) - 2 of us 
+The note section in the “Spagheb” page seems to be playing a different purpose. I would argue that the “*” may be the best efficiency approach for waiter to capture info as they are oden placing order with 7me-constraints. As waiters would receive training on the system and dishes beforehand, I would recommend that the designers to use icon instead of plain words for standard warning and notifications.
+11.[Consistency and Standards] (Severity 3) - 1 of us
+The “Out of Stock” label only appears in the edit-mode and seems to come out of nowhere. If the designers intended to mean that this dish is out of stock, then the label should appear in the dish page (or make the dish “un- selectable” in the listing; if the designers intended to mean that particular ingredient is out of stock, then they can simply make such ingredient un- selectable.
+12. [Error prevention] (Severity 2) - 1 of us
+It seems very easy to misclick on ingredients you don’t want to delete. Should probably make the cross button bigger and consider adding a confirmation page.
+13. [Recognition rather than recall] (Severity 2) - 1 of us
+After the user has selected a dish, the Vegan and Dairy Free option bars should still be present so that users can see which filter they applied.
+14.[Flexibility & Efficiency of Use] (Severity 3) - 1 of us
+Within the “sold out” pages there should be a notification on the menu task bar on the left side of the screen so you know what is sold out without having to click on it. This will accelerate the use of the application for users and make it more effective.
+15. [H6 Recognition Rather Than Recall] (Severity 3) - 1 of us
+It would be good to put initials such as “GF” or “V” by the line items in the table on the left. This would prevent users from having to use memory to recall whether or not an item they just looked up is in fact gluten free or vegan. It would allow for fast recognition of the required items for more efficient use of the application.
+16.[Help Users Recognize, Diagnose, and Recover from Errors] (Severity 4) - 1 of us
+In the dish page, the ingredients are listed is a rather disorganized manner, and the “X” for removal is preXy small and close to each other, potentially leading to errors in order placement. I recommend that: 1) ingredients should be beXer sorted based on their type; the ingredient could be color-coded or listed in different rows to reflect such categorization; 2) Enlarge the remove button to prevent error and increase efficiency of use; 3) If the waiter accidentally removed an ingredient, the ingredient should not just disappear upon removal but listed in a section below for retrieve (if needed).
+
+| Severity | level Number of Instances |
+| -------- | ------------------------- |
+| 1 | 0 |
+| 2 | 4 |
+| 3 | 7 |
+| 4 | 5 |
+
+### Heuristic Evaluation Take Aways
 
 We learned from our heuristic evaluation that we need to include more affordances that signal  navigation throughout our app. We need to include more features like back arrows, home buttons and a clear all feature for the different filters. This will help the user move through the app with speed.
 
