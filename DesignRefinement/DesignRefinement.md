@@ -102,12 +102,26 @@ It would be good to put initials such as “GF” or “V” by the line items i
 16.[Help Users Recognize, Diagnose, and Recover from Errors] (Severity 4) - 1 of us
 In the dish page, the ingredients are listed is a rather disorganized manner, and the “X” for removal is preXy small and close to each other, potentially leading to errors in order placement. I recommend that: 1) ingredients should be beXer sorted based on their type; the ingredient could be color-coded or listed in different rows to reflect such categorization; 2) Enlarge the remove button to prevent error and increase efficiency of use; 3) If the waiter accidentally removed an ingredient, the ingredient should not just disappear upon removal but listed in a section below for retrieve (if needed).
 
-| Severity | level Number of Instances |
+| Severity | Level Number of Instances |
 | -------- | ------------------------- |
 | 1 | 0 |
 | 2 | 4 |
 | 3 | 7 |
 | 4 | 5 |
+
+| Heuristic | Problem Number of Instances |
+| --------- | --------------------------- |
+| Visibility of System Status | 4 |
+| Match between system and the real world | 1 |
+| User control and freedom | 3 |
+| Consistency and standards | 3 |
+| Error prevention | 1 |
+| Recognition rather than recall | 2 |
+| Flexibility and efficiency of use | 1 |
+| Aesthetic and minimalist design | 0 |
+| Help users recognize, diagnose, and recover from errors | 1 |
+| Help and documentation | 0 |
+
 
 ### Heuristic Evaluation Take Aways
 
