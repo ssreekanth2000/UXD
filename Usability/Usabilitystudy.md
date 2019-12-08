@@ -52,17 +52,17 @@ We tested two versions of information presentation for our system: A table layou
 
 #### Response Variables (formal usability study):
 
-###### Access time
+##### Access time
 Both testers responded to questions about information retrieval faster using the tabular design.  They liked the aligned columns of icons and larger format and disliked the lack of those things in the list design. (Figure 1)
 
 ![Tabular Format Image of Foodway](TabularNormalFoodway.png) ![List Format Image of Foodway](ListFormatFoodway.png)
 Figure 1: A Side by Side comparison of the tabular format (left) and the list format (right)
-###### Misclicks
+##### Misclicks
 Both testers misclicked / were uncertain when trying to utilize the filtering system in the tabular design.  One user resorted to trying to search with the search bar.  The system was unclear.  On the flipside, the list design made filtering very clear. (Figure 2)
 
 ![Tabular Format Image of Foodway](TabularNormalFoodway.png) ![Tabular Filtering Format Image of Foodway](TabularFilteringFoodway.png)
 Figure 2: Comparison of the Tabular Design before (left) and after (right) filtering is used.  On the right, the clicked section header indicates we are filtering to Dairy-Free options.
-###### Type of gestures/clicks
+##### Type of gestures/clicks
 Both testers said they would avoid typing.  They also didn’t expect any gestures outside of clicking but this is likely affected by the format they were interacting with:  An iPad emulated on a computer through a web browser.
 #### Specific Feedback (informal usability study):
 - Confused about how to interact with the system at first.  Thought they had to click on items in order to answer the asked questions.  After about 5 seconds understood that the questions could be answered from the main page.
