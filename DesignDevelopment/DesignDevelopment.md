@@ -18,7 +18,7 @@ To pick off from where we left off in our Needs Analysis Phase, we continued to 
 * Not So Savvy Nancy: Owner of a local flower shop. Most of her business so far has relied on in-person communication. Thinks social media is scary/hard to approach, but sees its potential and would like to use it. 
 
 
-![alt text](./Personas.PNG )
+![Our Personas](./Personas.PNG )
 
 
 
